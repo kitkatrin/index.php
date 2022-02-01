@@ -1,0 +1,10 @@
+<html>
+<head> <title> cle </title> </head>
+<body>
+<center>
+<background img="part 2 slight.jpg">
+<img src="jvbbkhj.jpg">
+br <font color="purple"> kitty cheschire 
+
+</body>
+</html>
